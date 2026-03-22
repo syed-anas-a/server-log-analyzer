@@ -1,4 +1,4 @@
-# PROJECT TITLE : "Log Request Analyzer"
+# PROJECT TITLE : "Server Log Analyzer"
 
 ## Personal Details:
 Name : SYED ANAS ALI
@@ -8,7 +8,7 @@ city, country : Bengaluru, India
 Date recorded : 19th September 2025
 
 ## Description
-This project is a Log Request Analyzer built in Python as my final project for CS50P. Its purpose is to parse and analyze server access logs stored in the standard format called the Common Log Format (CLF), also known as the NCSA Common Log Format, and extracts key information such as IP addresses, dates, methods, URLs, status codes, and bytes transferred. The program organizes this data and provides structured insights into web traffic.
+This project is a Server Log Analyzer built in Python as my final project for CS50P. Its purpose is to parse and analyze server access logs stored in the standard format called the Common Log Format (CLF), also known as the NCSA Common Log Format, and extracts key information such as IP addresses, dates, methods, URLs, status codes, and bytes transferred. The program organizes this data and provides structured insights into web traffic.
 
 With features like identifying top IPs, URLs, and traffic by day, counting status codes, and calculating bandwidth usage, the analyzer demonstrates Python concepts including regex, file I/O, data structures, argparse, and tabulate. Results can be displayed in clean tables or exported to CSV/JSON for further use.
 
