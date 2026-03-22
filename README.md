@@ -1,7 +1,5 @@
 # PROJECT TITLE : "Log Request Analyzer"
 
-## Video Demo Link : [Youtube demo link](https://youtu.be/l04V5cf8kJ4)
-
 ## Personal Details:
 Name : SYED ANAS ALI
 GitHub username : syed-anas-a
